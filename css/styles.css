@@ -1,0 +1,79 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  position: relative;
+  top: 50px;
+  font-size: 6.7em;
+  margin: 50px auto 0 auto;
+  color: #fcf8f3;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color: #393e46;
+}
+
+h3
+a {
+ color: #11999E;
+}
+p{
+  text-align: left;
+}
+
+.mypic {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.copyright {
+  font-size: 1em;
+}
+
+.subtitle {
+  position: relative;
+  top: 50px;
+  font-weight: normal;
+}
+.skill-row{
+  width: 50%;
+  margin: 0 auto;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.topcontainer {
+  background-color: #a7d7c5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #74b49b;
+}
+
+.bottom-container {
+  background-color: #5c8d89;
+  color: white;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 150px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  top: 450px;
+}
